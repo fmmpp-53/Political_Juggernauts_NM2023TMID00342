@@ -4,4 +4,4 @@ Dashboard public link--https://public.tableau.com/app/profile/priyadharishini.k.
 
 Story public link--https://public.tableau.com/app/profile/priyadharishini.k.s/viz/Loksabhaanalysis2019storyboard_16964380695850/Story1?publish=yes
 
-Vedio demonstration link--https://drive.google.com/file/d/1DFIseJmYlqBl75CKFljdpootFPteTpj-/view?usp=drivesdk
+Video demonstration link--https://drive.google.com/file/d/1DFIseJmYlqBl75CKFljdpootFPteTpj-/view?usp=drivesdk
